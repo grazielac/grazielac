@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Graziela</h1>
-<h3 align="center">A passionate frontend developer from UK</h3>
+<h3 align="center">A creative full-stack developer & ceramic artist</h3>
+
+I'm a creative full-stack web developer passionate about building meaningful projects and intuitive user experiences. Currently, I'm completing a coding bootcamp and working on portfolio projects to level up my skills.
+
 
 - 🔭 I’m currently working on [BloomSpace](https://github.com/grazielac/bloomspace)
 
 - 🌱 I’m currently learning **React**
+
+- 🚀 My goal: Land a **junior developer role by early 2026**  
+
+- 🎨 Fun fact: I also run a ceramic art business ✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
