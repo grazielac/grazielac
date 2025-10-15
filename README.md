@@ -4,7 +4,7 @@
 I'm a creative full-stack web developer passionate about building meaningful projects and intuitive user experiences. Currently, I'm completing a coding bootcamp and working on portfolio projects to level up my skills.
 
 
-- 🔭 I’m currently working on [BloomSpace](https://github.com/grazielac/bloomspace)
+- 🔭 I’m currently working on [Bluméa](https://github.com/grazielac/bloomspace1)
 
 - 🌱 I’m currently learning **React**
 
