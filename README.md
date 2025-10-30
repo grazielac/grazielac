@@ -6,7 +6,7 @@ I'm a creative full-stack web developer passionate about building meaningful pro
 
 - 🔭 I’m currently working on [Blumiora](https://github.com/grazielac/blumiora)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript**
 
 - 🚀 My goal: Land a **junior developer role by early 2026**  
 
