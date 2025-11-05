@@ -4,7 +4,7 @@
 I'm a creative full-stack web developer passionate about building meaningful projects and intuitive user experiences. Currently, I'm completing a coding bootcamp and working on portfolio projects to level up my skills.
 
 
-- 🔭 I’m currently working on [Blumiora](https://github.com/grazielac/blumiora)
+- 🔭 I’m currently working on [Miusie - E-Commer Platform](https://github.com/grazielac/miusie-ecommerce)
 
 - 🌱 I’m currently learning **TypeScript**
 
