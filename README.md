@@ -22,4 +22,3 @@ I'm a creative full-stack web developer passionate about building meaningful pro
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grazielac&show_icons=true&locale=en&layout=compact" alt="grazielac" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grazielac&" alt="grazielac" /></p>
