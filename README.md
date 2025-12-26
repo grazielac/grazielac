@@ -4,7 +4,7 @@
 I'm a creative full-stack web developer passionate about building meaningful projects and intuitive user experiences. Recently finished a coding bootcamp and working on portfolio projects to level up my skills.
 
 
-- 🔭 I’m currently working on [Fitness Tracker App](https://github.com/grazielac/gitness-tracker)
+- 🔭 I’m currently working on [Fitness Tracker App](https://github.com/grazielac/fitness-tracker)
 
 - 🌱 I’m currently learning **TypeScript**
 
