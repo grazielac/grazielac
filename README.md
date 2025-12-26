@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Graziela</h1>
 <h3 align="center">A creative full-stack developer & ceramic artist</h3>
 
-I'm a creative full-stack web developer passionate about building meaningful projects and intuitive user experiences. Currently, I'm completing a coding bootcamp and working on portfolio projects to level up my skills.
+I'm a creative full-stack web developer passionate about building meaningful projects and intuitive user experiences. Recently finished a coding bootcamp and working on portfolio projects to level up my skills.
 
 
-- 🔭 I’m currently working on [Miusie - E-Commerce Site](https://github.com/grazielac/miusie-ecommerce)
+- 🔭 I’m currently working on [Fitness Tracker App](https://github.com/grazielac/gitness-tracker)
 
 - 🌱 I’m currently learning **TypeScript**
 
